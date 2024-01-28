@@ -1,8 +1,8 @@
-html {
+/* html {
 	font-family: 'Verdana', sans-serif;
 	
 }
-
+ */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -11,9 +11,9 @@ body {
 }
 
 .container {
-    width: 20%;
+    width: 50%;
     margin: auto;
-    padding: 50px;
+    padding: 60px;
 }
 /* 
 @media (min-width: 576px) {
