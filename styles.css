@@ -6,6 +6,7 @@ html {
 body {
 	padding: 56px;
 	background-color: blue;
+	font-size: 24px;
 }
 /* 
 @media (min-width: 576px) {
