@@ -5,7 +5,7 @@ html {
 
 body {
 	padding: 50px;
-	background-color: #6c757d;
+	background-color: blue;
 }
 
 @media (min-width: 576px) {
