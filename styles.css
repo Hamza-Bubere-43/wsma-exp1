@@ -4,9 +4,16 @@ html {
 }
 
 body {
-	padding: 56px;
-	background-color: blue;
-	font-size: 24px;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: grey;
+
+}
+
+.container {
+    width: 20%;
+    margin: auto;
+    padding: 50px;
 }
 /* 
 @media (min-width: 576px) {
