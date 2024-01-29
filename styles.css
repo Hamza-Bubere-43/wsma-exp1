@@ -17,7 +17,7 @@ body {
 .size {
 	padding-center: 50px;
 	width: 20px;
-	margin: 25px 50px 75px 100px;
+	margin: 25px 50px 75px 20px;
 
 /* 
 @media (min-width: 576px) {
