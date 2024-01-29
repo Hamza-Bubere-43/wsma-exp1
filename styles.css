@@ -12,12 +12,11 @@ body {
 
 .container {
 	font-size: 25px;
-	background-color: yellow;
+	background-color: ;
 
 .size {
 	padding-center: 50px;
 	width: 20px;
-	margin: 25px 50px 75px 20px;
 
 /* 
 @media (min-width: 576px) {
