@@ -47,7 +47,11 @@ body {
 .icons-social i {
 	padding: 10px;
 	font-size: 3em;
-/* 	color: white; */
+}
+
+.fa-github path {
+  stroke: white;
+  stroke-width: 30px;
 }
 
 .icons-social a {
