@@ -18,7 +18,7 @@ body {
 	padding-center: 50px;
 	width: 15px;
 
-/* 
+
 @media (min-width: 576px) {
 	html {
 		font-size: 14px;
@@ -30,7 +30,7 @@ body {
 		font-size: 16px;
 	}
 }
-
+/*
 @media (min-width: 992px) {
 	html {
 		font-size: 18px;
@@ -42,7 +42,7 @@ body {
 		font-size: 20px;
 	}
 }
-
+*/
 
 .icons-social i {
 	padding: 10px;
