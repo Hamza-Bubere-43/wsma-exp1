@@ -1,15 +1,15 @@
 /* Theme */
 
 .container {
-	background: #303F9F;
+	background: #4ddbe8;
 	color: #FAFAFA;
 	font-size: 30px;
 }
 
 .icons-social a {
-	color: #91a2a3;
+	color: #a4bebf;
 }
 
 .icons-social a svg path{
-	fill: #91a2a3;
+	fill: #a4bebf;
 }
