@@ -11,12 +11,12 @@ body {
 }
 
 .container {
-	font-size: 25px;
+	font-size: 15px;
 	background-color: blue;
 
 .size {
 	padding-center: 50px;
-	width: 20px;
+	width: 15px;
 
 /* 
 @media (min-width: 576px) {
